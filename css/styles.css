@@ -23,7 +23,7 @@ a {
 }
 
 .logo {
-    font-family: 'Railway', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -49,6 +49,10 @@ a {
 .nav-list-link:hover,
 .nav-list-link:focus {
     color: #404bbf;
+}
+
+.header-adress {
+    font-style: normal;
 }
 
 .address-link {
@@ -165,4 +169,5 @@ background-color: rgba(46, 47, 66, 1);
 
 .footer-text {
     color: rgba(244, 244, 253, 1);
+    letter-spacing: 0.02em;
 }
